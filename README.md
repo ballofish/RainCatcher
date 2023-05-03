@@ -1,12 +1,12 @@
 # RainCatcher
-## Tipping bucket rain gauge
+### Tipping bucket rain gauge
 
 * Board : KITS ESP32 EDU
 * Upload Speed: "921600"
 * Partition Scheme : "No OTA (Laege APP)"
 * Core Debug Level : "None"
 
-- PIN MAP
+* PIN MAP
 ```
 GND --- |       | --- 5 pin
         |10K Ohm|
@@ -14,4 +14,4 @@ GND --- |       | --- 5 pin
         
 3.3V  --- rain gauge[2]
 ```
-+ Serial Baudrate : 115200
+* Serial Baudrate : 115200
