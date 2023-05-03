@@ -3,7 +3,7 @@
 
 * Board : KITS ESP32 EDU
 * Upload Speed: "921600"
-* Partition Scheme : "No OTA (Laege APP)"
+* Partition Scheme : "No OTA (Large APP)"
 * Core Debug Level : "None"
 
 * PIN MAP
