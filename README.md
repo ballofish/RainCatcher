@@ -7,10 +7,11 @@
 * Core Debug Level : "None"
 
 - PIN MAP
-- GND --- |       | --- 5 pin
--         |10K Ohm|
--         |       | --- rain gauge[1]
+```
+GND --- |       | --- 5 pin
+        |10K Ohm|
+        |       | --- rain gauge[1]
         
-- 3.3V  --- rain gauge[2]
-
+3.3V  --- rain gauge[2]
+```
 + Serial Baudrate : 115200
